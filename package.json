@@ -1,0 +1,13 @@
+{
+  "name": "trace-css-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pliszkaco/trace-css-bug.git",
+  "author": "Piotr Liszka <pliszka@conduktor.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.6.5"
+  },
+  "scripts": {}
+}
